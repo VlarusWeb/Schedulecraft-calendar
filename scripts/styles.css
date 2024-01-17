@@ -1,0 +1,7 @@
+:root {
+    --main-background: rgb(188, 185, 185);
+}
+
+* {
+    box-sizing: border-box;
+}
